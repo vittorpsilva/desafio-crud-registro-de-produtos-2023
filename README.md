@@ -1,7 +1,7 @@
 # desafio-crud-registro-de-produtos-2023
 
-Tecnologias:
-WampServer
+Banco de Dados: PHPMyAdmin utilizando WampServer
+
 JavaScript
 PHP
 SQL
